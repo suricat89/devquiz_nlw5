@@ -17,7 +17,6 @@ class HomeController {
   void getUser() async {
     state = HomeState.loading;
     user = await repository.getUser();
-    state = HomeState.success;
   }
 
   void getQuizzes() async {

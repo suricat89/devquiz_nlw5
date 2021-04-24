@@ -10,6 +10,8 @@ class AppColors {
   static final Color borderGrey = Color(0xFFE1E1E5);
   static final Color chartSecondary = Color(0xFFE1E6E3);
   static final Color chartPrimary = Color(0xFF04D361);
+  static final Color overlayGrey = Color(0xFFE9E9E9);
+  static final Color overlayGreen = Color(0xFF03C351);
 
   //Greens
   static final Color lightGreen = Color(0xFFE1F5EC);
