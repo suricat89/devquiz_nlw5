@@ -1,6 +1,6 @@
 [
   {
-    "title": "NLW 5 Flutter",
+    "title": "Conceitos do Flutter",
     "imagem": "blocks",
     "questionAnswered": 1,
     "level": "facil",
@@ -26,7 +26,7 @@
     ]
   },
   {
-    "title": "Teste de categoria",
+    "title": "Manipulação de estado",
     "imagem": "blocks",
     "questionAnswered": 0,
     "level": "facil",
